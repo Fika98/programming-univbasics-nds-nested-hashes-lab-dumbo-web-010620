@@ -11,7 +11,8 @@ def assembled_aoh
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
   assembled_aoh = [
-    do]
+    DON_G
+    ]
 end
 
 def literal_aoh
